@@ -9,6 +9,13 @@
 > Prévia
 [Para Mais Detalhes, clique aqui](https://danielmelloo.github.io/-portfolio/projetos.html).
 
+### Sobre o Repositório
+
+Este repositório conta com:
+
+* UM arquivo CPP 
+* Um arquivo formatado para ser inserido com lib
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:

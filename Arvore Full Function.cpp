@@ -344,7 +344,6 @@ void BST<T>::balanceFactorAll (BSTNode<T>* p)
     if ( p != 0 ) 
     {
         p->fb=balanceFactorDef (p);
-        cout << "Nó: " << p->el << "  fb=" << p->fb << endl;
         balanceFactorAll (p->left);
         balanceFactorAll (p->right);
     }
