@@ -1,7 +1,7 @@
 # Arvore Binária Com Algoritmo DSW
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DanielMelloo/Arvore-Binaria-DSW?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Orkthi/Domino-game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/DanielMelloo/Arvore-Binaria-DSW?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/DanielMelloo/Arvore-Binaria-DSW?style=for-the-badge)
 
 <img src="https://www.macoratti.net/16/05/vbn_arvbin5.png" alt="Previa-Arvore-DSW">
